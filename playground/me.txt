@@ -1,0 +1,7 @@
+{{#Shubham070msd}}
+Name: Manjunath Huddar
+Skills: HTML, CSS, Python, AWS, Shell Scripting, Docker, Linux, GIT, GITHUB
+Email: manjunathhuddar1999@gmail.com
+{{/Shubham070msd}}
+
+
